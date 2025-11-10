@@ -70,7 +70,7 @@ These features are integrated using a 3-layer Multilayer Perceptron (MLP) and op
 
 
 
-\## ⚙ï¸  Setup and Installation
+\## ⚙¸  Setup and Installation
 
 
 
@@ -122,25 +122,32 @@ These features are integrated using a 3-layer Multilayer Perceptron (MLP) and op
 
 
 
-\## ðŸ”¥ How to Run
+\## How to Run
 
 
 
 To train the full 5-fold cross-validation ensemble from scratch, run the `train.py` script from the root directory:
 
 
-
-```bash
-
 python src/train.py
+
+
+
+
+📋 DATASETS INCLUDED
+Dataset	Size	Format	Samples
+IDRiD2 (Fundus)	~1-1.5 GB	JPG (384×384)	606 images
+Colive Voice	~0.5-1 GB	WAV (16 kHz)	606 recordings
+Clinical Captions	~2 MB	CSV	606 texts
+Demographics	~0.1 MB	CSV	606 records
 
 
 
 👥 AUTHOR TEAM
 Role	Name	Affiliation
 Supervisor	Somdatta Patra	Apex Institute of Technology, CU
-Co-author	Srijita Das	Apex Institute of Technology, CU
 Co-author	Dipanjan Saha	Apex Institute of Technology, CU
+Co-author	Srijita Das	Apex Institute of Technology, CU
 Co-author	Aditya Malik	Apex Institute of Technology, CU
 
 All authors are affiliated with the Dept. of Computer Science and Engineering, Apex Institute of Technology, Chandigarh University, Mohali, Punjab, India.
