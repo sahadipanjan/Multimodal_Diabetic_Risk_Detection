@@ -16,7 +16,7 @@ This repository contains the official implementation for the 2025 paper:
 
 
 
-This project presents a non-invasive, AI-driven screening tool that combines retinal fundus images and voice stress biomarkers to assess diabetic risk\[cite: 14]. Our model achieves clinical-grade performance, surpassing the 75% benchmarks for sensitivity, specificity, and balanced accuracy.
+This project presents a non-invasive, AI-driven screening tool that combines retinal fundus images and voice stress biomarkers to assess diabetic risk. Our model achieves clinical-grade performance, surpassing the 75% benchmarks for sensitivity, specificity, and balanced accuracy.
 
 
 
