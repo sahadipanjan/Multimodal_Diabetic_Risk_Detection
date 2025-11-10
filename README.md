@@ -136,33 +136,12 @@ python src/train.py
 
 
 
-
-
-
-
-
-
-Authors
-
-
-
-Somdatta Patra 
-
-
-
-Srijita Das 
-
-
-
-Dipanjan Saha 
-
-
-
-Aditya Malik 
-
-
-
-
+👥 AUTHOR TEAM
+Role	Name	Affiliation
+Supervisor	Somdatta Patra	Apex Institute of Technology, CU
+Co-author	Srijita Das	Apex Institute of Technology, CU
+Co-author	Dipanjan Saha	Apex Institute of Technology, CU
+Co-author	Aditya Malik	Apex Institute of Technology, CU
 
 All authors are affiliated with the Dept. of Computer Science and Engineering, Apex Institute of Technology, Chandigarh University, Mohali, Punjab, India.
 
