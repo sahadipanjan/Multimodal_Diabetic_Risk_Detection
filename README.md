@@ -78,9 +78,9 @@ These features are integrated using a 3-layer Multilayer Perceptron (MLP) and op
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/YOUR\_USERNAME/multimodal-diabetic-risk.git](https://github.com/YOUR\_USERNAME/multimodal-diabetic-risk.git)
+&nbsp;   git clone \[https://github.com/sahadipanjan/Multimodal_Diabetic_Risk_Detection.git](https://github.com/sahadipanjan/Multimodal_Diabetic_Risk_Detection.git)
 
-&nbsp;   cd multimodal-diabetic-risk
+&nbsp;   cd Multimodal_Diabetic_Risk_Detection
 
 &nbsp;   ```
 
