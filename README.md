@@ -119,8 +119,11 @@ To train the full 5-fold cross-validation ensemble from scratch, run the `train.
 Dataset	Size	Format	Samples
 
 &nbsp;IDRiD2 (Fundus)	~1-1.5 GB	JPG (384×384)	606 images
+
 &nbsp;Colive Voice	~0.5-1 GB	WAV (16 kHz)	606 recordings
+
 &nbsp;Clinical Captions	~2 MB	CSV	606 texts
+
 &nbsp;Demographics	~0.1 MB	CSV	606 records
 
 
@@ -131,9 +134,13 @@ Dataset	Size	Format	Samples
   Role	        Name	               Affiliation
 
 &nbsp;Supervisor	Somdatta Patra	Apex Institute of Technology, CU
+
 &nbsp;Co-author	  Dipanjan Saha	  Apex Institute of Technology, CU
+
 &nbsp;Co-author	  Srijita Das	    Apex Institute of Technology, CU
+
 &nbsp;Co-author	  Aditya Malik	  Apex Institute of Technology, CU
+
 
 All authors are affiliated with the Department of Computer Science and Engineering, Apex Institute of Technology, Chandigarh University, Mohali, Punjab, India.
 
