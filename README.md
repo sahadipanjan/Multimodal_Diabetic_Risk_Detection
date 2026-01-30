@@ -64,7 +64,7 @@ These features are integrated using a 3-layer Multilayer Perceptron (MLP) and op
 
 
 
-# ⚙¸  Setup and Installation
+# ⚙  Setup and Installation
 
 1.  Clone the repository:
 
@@ -109,7 +109,7 @@ These features are integrated using a 3-layer Multilayer Perceptron (MLP) and op
 To train the full 5-fold cross-validation ensemble from scratch, run the `train.py` script from the root directory:
 
 
-&nbsp;  python src/train.py
+&nbsp; python src/train.py
 
 
 
@@ -117,6 +117,7 @@ To train the full 5-fold cross-validation ensemble from scratch, run the `train.
 # 📋 DATASETS INCLUDED
 
 Dataset	Size	Format	Samples
+
 IDRiD2 (Fundus)	~1-1.5 GB	JPG (384×384)	606 images
 Colive Voice	~0.5-1 GB	WAV (16 kHz)	606 recordings
 Clinical Captions	~2 MB	CSV	606 texts
